@@ -1,24 +1,25 @@
-# README
+ README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My name is Marian Junia Aboagye. I am a Ruby on Rails developer. This is my
 
-Things you may want to cover:
+first project learning HTML5, CSS, Javascript, Jquery etc. I am excited to learn
 
-* Ruby version
+more tech stuff. This is a learning experience.
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
+
+
+
+
+
+
+
+
