@@ -6,7 +6,7 @@ first project learning HTML5, CSS, Javascript, Jquery etc. I am excited to learn
 
 more tech stuff. This is a learning experience.
 
-
+My phone number is 512-xxx-xxxx
 
 
 
